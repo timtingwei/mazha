@@ -1,0 +1,34 @@
+# 爬虫
+http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html#id2
+官方文档, 基础概念
+
+http://aljun.me/post/17
+基础概念
+
+http://aljun.me/category/python%E7%88%AC%E8%99%AB
+有趣的案例，主要撸案例和代码。
+
+http://www.lining0806.com/category/spider/
+结合着看
+
+https://github.com/jobbole/awesome-python-cn
+github里的python全资源
+
+------
+
+# 有了数据后, 学习数据分析
+
+<<利用python进行数据分析>>
+
+https://www.zhihu.com/question/24526559
+1答案里的numPy教程(结合着上面书看), 数据分析视频, 练习案例
+2答案里的网课
+3答案里的知识结构索引
+
+------
+
+# 建议
+> * 搞清楚基础概念
+> * 主要学案例代码
+> * 减少学习资源的选择
+> * 每种资源有选择的学
